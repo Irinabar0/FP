@@ -25,7 +25,7 @@ print([c1,c2])
 #Circle functions
 
 
-#Program funtionalities
+#Program funtionalitiess
 
 d = {1: "Alice", 2: "Bob", 3: [1,2,3]}
 #d[3] = "Xavier"
